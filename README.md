@@ -16,10 +16,13 @@ In no particular order...
 Some cool JS stuff.
 
 ### Vue Related JS
+* [AwesomeVue](https://github.com/vuejs/awesome-vue) - a curated list of VueJS examples maintained in the official vuejs repository on github
+* [VueJSExamples.com](https://vuejsexamples.com) - a curated collection of VueJS examples
 * [Visual Airport Distance Calculator](https://codepen.io/shshaw/pen/vJNMQY) - A fantastic example of using Vue with SVG. I wish I was this good of a coder!
 * [Codepen page of Shaw](https://codepen.io/shshaw/) - just the codepen of @shshaw, the dev who did the aforementioned Visual Airport Distance Caclulator
 * [Vue Animation Data Visualization Article](https://x-team.com/blog/vue-animation-data-visualization/) - a good article
-
+* [Chartkick](https://github.com/ankane/vue-chartkick) - stupid simple charts for Vue and other js frameworks.
+* [Vue Kanban Drag-n-drop](https://github.com/brockreece/vue-kanban/) - drag n drop example app with Vue
 
 ## People You Should Follow on Github and Codepen
 Actually, rather than me managing a list of these people, just check out __[this list for Codepen](https://github.com/minorgod/People-You-Should-Follow-on-CodePen)__. Perhaps there is a good list for GitHub too? I'll put some other random names down here...
